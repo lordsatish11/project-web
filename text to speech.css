@@ -40,3 +40,19 @@ textaream::placeholder{
  font-size: 16px;
  color: #ddd;
 }
+.row{
+ width: 600px;
+ display: flex;
+ align-items: center;
+ gap: 20px;
+}
+button{
+ background: #ff2963;
+ color: #fff;
+ font-size: 16px;
+ padding: 10px 30px;
+ border-radius:35px;
+ border: 0;
+ outline: 0;
+ cursor:pointer;
+}
